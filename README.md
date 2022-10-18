@@ -13,5 +13,4 @@ Automated deployment to heroku
 remote: -----> Launching...
 remote:        Released v3
 remote:        https://safe-beyond-38902.herokuapp.com/ deployed to Heroku
-
 remote:        https://safe-beyond-38902.herokuapp.com/users
